@@ -15,4 +15,4 @@ while True:
         break
 
 media = soma/(i-1)
-print(media)
+print(f"A média aritmética obtida para n valores, é igual a: {media}")
